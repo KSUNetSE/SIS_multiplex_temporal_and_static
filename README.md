@@ -4,7 +4,7 @@ This repository contains the code and data accompanying the paper:
 
 **“Epidemic Mean-Field Thresholds of SIS Dynamics on Temporal Multiplex Networks with Activity-Driven Layers”**  
 Authors: Matin Marjani, Shirshendu Chatterjee, Sharmodeep Bhattacharyya, Caterina Scoglio 
-Status: Submitted to IEEE Transactions on Network Science and Engineering
+Status: Submitted to Applied Network Science
 
 ## Summary
 
